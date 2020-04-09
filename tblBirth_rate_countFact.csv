@@ -1,0 +1,885 @@
+Birth_rate_count_id,Region_id,Region_cod,Region_desc,Year,Birth Rate,Birth Count,Type_Birth_Id,Type_birth_desc
+1,1,US,United States,2000,65.9,4058814,1,Birth
+2,2,AL,Alabama,2000,65.1,63299,1,Birth
+3,3,AK,Alaska,2000,70.7,9974,1,Birth
+4,4,AZ,Arizona,2000,79,85273,1,Birth
+5,5,AR,Arkansas,2000,67.1,37783,1,Birth
+6,6,CA,California,2000,70.2,531959,1,Birth
+7,7,CO,Colorado,2000,67.6,65438,1,Birth
+8,8,CT,Connecticut,2000,59.9,43026,1,Birth
+9,9,DE,Delaware,2000,63,11051,1,Birth
+10,10,DC,District of Columbia,2000,53,7666,1,Birth
+11,11,FL,Florida,2000,63.7,204125,1,Birth
+12,12,GA,Georgia,2000,69.8,132644,1,Birth
+13,13,HI,Hawaii,2000,69.1,17551,1,Birth
+14,14,ID,Idaho,2000,73.3,20366,1,Birth
+15,15,IL,Illinois,2000,67.4,185036,1,Birth
+16,16,IN,Indiana,2000,66.4,87699,1,Birth
+17,17,IA,Iowa,2000,62.3,38266,1,Birth
+18,18,KS,Kansas,2000,68.9,39666,1,Birth
+19,19,KY,Kentucky,2000,62.4,56029,1,Birth
+20,20,LA,Louisiana,2000,67.3,67898,1,Birth
+21,21,ME,Maine,2000,50.3,13603,1,Birth
+22,22,MD,Maryland,2000,62.4,74316,1,Birth
+23,23,MA,Massachusetts,2000,57,81614,1,Birth
+24,24,MI,Michigan,2000,63.1,136171,1,Birth
+25,25,MN,Minnesota,2000,62.2,67604,1,Birth
+26,26,MS,Mississippi,2000,69.1,44075,1,Birth
+27,27,MO,Missouri,2000,63.1,76463,1,Birth
+28,28,MT,Montana,2000,58.8,10957,1,Birth
+29,29,NE,Nebraska,2000,67.3,24646,1,Birth
+30,30,NV,Nevada,2000,73.3,30829,1,Birth
+31,31,NH,New Hampshire,2000,54.1,14609,1,Birth
+32,32,NJ,New Jersey,2000,63.8,115632,1,Birth
+33,33,NM,New Mexico,2000,69.4,27223,1,Birth
+34,34,NY,New York,2000,61.2,258737,1,Birth
+35,35,NC,North Carolina,2000,67.7,120311,1,Birth
+36,36,ND,North Dakota,2000,56.3,7676,1,Birth
+37,37,OH,Ohio,2000,63.6,155472,1,Birth
+38,38,OK,Oklahoma,2000,67.6,49782,1,Birth
+39,39,OR,Oregon,2000,63.6,45804,1,Birth
+40,40,PA,Pennsylvania,2000,57.1,146281,1,Birth
+41,41,RI,Rhode Island,2000,53.6,12505,1,Birth
+42,42,SC,South Carolina,2000,62.9,56114,1,Birth
+43,43,SD,South Dakota,2000,65.3,10345,1,Birth
+44,44,TN,Tennessee,2000,63.5,79611,1,Birth
+45,45,TX,Texas,2000,76.8,363414,1,Birth
+46,46,UT,Utah,2000,89.3,47353,1,Birth
+47,47,VT,Vermont,2000,49.5,6500,1,Birth
+48,48,VA,Virginia,2000,62.2,98938,1,Birth
+49,49,WA,Washington,2000,62.6,81036,1,Birth
+50,50,WV,West Virginia,2000,56,20865,1,Birth
+51,51,WI,Wisconsin,2000,59.8,69326,1,Birth
+52,52,WY,Wyoming,2000,59.6,6253,1,Birth
+53,1,US,United States,2001,65.1,4025933,1,Birth
+54,2,AL,Alabama,2001,62.5,60454,1,Birth
+55,3,AK,Alaska,2001,71.4,10003,1,Birth
+56,4,AZ,Arizona,2001,77.5,85597,1,Birth
+57,5,AR,Arkansas,2001,65.8,37010,1,Birth
+58,6,CA,California,2001,68.8,527759,1,Birth
+59,7,CO,Colorado,2001,68.2,67007,1,Birth
+60,8,CT,Connecticut,2001,59.5,42648,1,Birth
+61,9,DE,Delaware,2001,60.9,10749,1,Birth
+62,10,DC,District of Columbia,2001,53.1,7625,1,Birth
+63,11,FL,Florida,2001,63.1,205793,1,Birth
+64,12,GA,Georgia,2001,69.3,133526,1,Birth
+65,13,HI,Hawaii,2001,67.4,17072,1,Birth
+66,14,ID,Idaho,2001,73.5,20688,1,Birth
+67,15,IL,Illinois,2001,67.2,184064,1,Birth
+68,16,IN,Indiana,2001,65.7,86459,1,Birth
+69,17,IA,Iowa,2001,61.6,37619,1,Birth
+70,18,KS,Kansas,2001,67.8,38869,1,Birth
+71,19,KY,Kentucky,2001,61.3,54658,1,Birth
+72,20,LA,Louisiana,2001,65.6,65352,1,Birth
+73,21,ME,Maine,2001,50.9,13759,1,Birth
+74,22,MD,Maryland,2001,61,73218,1,Birth
+75,23,MA,Massachusetts,2001,56.9,81077,1,Birth
+76,24,MI,Michigan,2001,62,133427,1,Birth
+77,25,MN,Minnesota,2001,61.8,67562,1,Birth
+78,26,MS,Mississippi,2001,66.8,42282,1,Birth
+79,27,MO,Missouri,2001,62.3,75464,1,Birth
+80,28,MT,Montana,2001,59.4,10970,1,Birth
+81,29,NE,Nebraska,2001,68,24820,1,Birth
+82,30,NV,Nevada,2001,71.7,31382,1,Birth
+83,31,NH,New Hampshire,2001,53.5,14656,1,Birth
+84,32,NJ,New Jersey,2001,63.9,115795,1,Birth
+85,33,NM,New Mexico,2001,69.6,27128,1,Birth
+86,34,NY,New York,2001,60.4,254026,1,Birth
+87,35,NC,North Carolina,2001,66.1,118185,1,Birth
+88,36,ND,North Dakota,2001,57.1,7629,1,Birth
+89,37,OH,Ohio,2001,62.5,151570,1,Birth
+90,38,OK,Oklahoma,2001,68.4,50118,1,Birth
+91,39,OR,Oregon,2001,62.6,45322,1,Birth
+92,40,PA,Pennsylvania,2001,56.4,143495,1,Birth
+93,41,RI,Rhode Island,2001,54.3,12713,1,Birth
+94,42,SC,South Carolina,2001,62.5,55756,1,Birth
+95,43,SD,South Dakota,2001,66.4,10483,1,Birth
+96,44,TN,Tennessee,2001,62.6,78340,1,Birth
+97,45,TX,Texas,2001,76.2,365410,1,Birth
+98,46,UT,Utah,2001,89.7,47959,1,Birth
+99,47,VT,Vermont,2001,48.5,6366,1,Birth
+100,48,VA,Virginia,2001,61.8,98884,1,Birth
+101,49,WA,Washington,2001,60.9,79570,1,Birth
+102,50,WV,West Virginia,2001,55.6,20428,1,Birth
+103,51,WI,Wisconsin,2001,59.6,69072,1,Birth
+104,52,WY,Wyoming,2001,59.2,6115,1,Birth
+105,1,US,United States,2002,64.8,4021726,1,Birth
+106,2,AL,Alabama,2002,61.2,58967,1,Birth
+107,3,AK,Alaska,2002,73.5,9938,1,Birth
+108,4,AZ,Arizona,2002,77.8,87837,1,Birth
+109,5,AR,Arkansas,2002,66.6,37437,1,Birth
+110,6,CA,California,2002,68.3,529357,1,Birth
+111,7,CO,Colorado,2002,69.3,68418,1,Birth
+112,8,CT,Connecticut,2002,58.8,42001,1,Birth
+113,9,DE,Delaware,2002,62.2,11090,1,Birth
+114,10,DC,District of Columbia,2002,52.9,7498,1,Birth
+115,11,FL,Florida,2002,62.5,205579,1,Birth
+116,12,GA,Georgia,2002,68.4,133300,1,Birth
+117,13,HI,Hawaii,2002,68.6,17477,1,Birth
+118,14,ID,Idaho,2002,73.8,20970,1,Birth
+119,15,IL,Illinois,2002,66.1,180622,1,Birth
+120,16,IN,Indiana,2002,64.8,85081,1,Birth
+121,17,IA,Iowa,2002,61.7,37559,1,Birth
+122,18,KS,Kansas,2002,68.7,39412,1,Birth
+123,19,KY,Kentucky,2002,60.5,54233,1,Birth
+124,20,LA,Louisiana,2002,65.4,64872,1,Birth
+125,21,ME,Maine,2002,49.8,13559,1,Birth
+126,22,MD,Maryland,2002,60.6,73323,1,Birth
+127,23,MA,Massachusetts,2002,56.7,80645,1,Birth
+128,24,MI,Michigan,2002,60.7,129967,1,Birth
+129,25,MN,Minnesota,2002,62,68025,1,Birth
+130,26,MS,Mississippi,2002,65.7,41518,1,Birth
+131,27,MO,Missouri,2002,62.1,75251,1,Birth
+132,28,MT,Montana,2002,60.3,11049,1,Birth
+133,29,NE,Nebraska,2002,69.5,25383,1,Birth
+134,30,NV,Nevada,2002,72.5,32571,1,Birth
+135,31,NH,New Hampshire,2002,52.4,14442,1,Birth
+136,32,NJ,New Jersey,2002,63.5,114751,1,Birth
+137,33,NM,New Mexico,2002,70.7,27753,1,Birth
+138,34,NY,New York,2002,59.8,251415,1,Birth
+139,35,NC,North Carolina,2002,65.4,117335,1,Birth
+140,36,ND,North Dakota,2002,58.7,7757,1,Birth
+141,37,OH,Ohio,2002,61.7,148720,1,Birth
+142,38,OK,Oklahoma,2002,68.8,50387,1,Birth
+143,39,OR,Oregon,2002,61.9,45192,1,Birth
+144,40,PA,Pennsylvania,2002,56.4,142850,1,Birth
+145,41,RI,Rhode Island,2002,54.6,12894,1,Birth
+146,42,SC,South Carolina,2002,60.7,54570,1,Birth
+147,43,SD,South Dakota,2002,68.3,10698,1,Birth
+148,44,TN,Tennessee,2002,62.2,77482,1,Birth
+149,45,TX,Texas,2002,77.1,372450,1,Birth
+150,46,UT,Utah,2002,90.6,49182,1,Birth
+151,47,VT,Vermont,2002,48.9,6387,1,Birth
+152,48,VA,Virginia,2002,61.9,99672,1,Birth
+153,49,WA,Washington,2002,60.2,79028,1,Birth
+154,50,WV,West Virginia,2002,57,20712,1,Birth
+155,51,WI,Wisconsin,2002,59,68560,1,Birth
+156,52,WY,Wyoming,2002,63.6,6550,1,Birth
+157,1,US,United States,2003,66.1,4089950,1,Birth
+158,2,AL,Alabama,2003,62.5,59552,1,Birth
+159,3,AK,Alaska,2003,72.5,10086,1,Birth
+160,4,AZ,Arizona,2003,79.2,90967,1,Birth
+161,5,AR,Arkansas,2003,67.4,37784,1,Birth
+162,6,CA,California,2003,69.9,540997,1,Birth
+163,7,CO,Colorado,2003,69.5,69339,1,Birth
+164,8,CT,Connecticut,2003,59.6,42873,1,Birth
+165,9,DE,Delaware,2003,64.6,11329,1,Birth
+166,10,DC,District of Columbia,2003,53.9,7619,1,Birth
+167,11,FL,Florida,2003,63.4,212250,1,Birth
+168,12,GA,Georgia,2003,69.3,135979,1,Birth
+169,13,HI,Hawaii,2003,72.2,18100,1,Birth
+170,14,ID,Idaho,2003,76,21800,1,Birth
+171,15,IL,Illinois,2003,67,182495,1,Birth
+172,16,IN,Indiana,2003,66.4,86434,1,Birth
+173,17,IA,Iowa,2003,63.3,38174,1,Birth
+174,18,KS,Kansas,2003,69.5,39476,1,Birth
+175,19,KY,Kentucky,2003,63.1,55236,1,Birth
+176,20,LA,Louisiana,2003,66.1,65040,1,Birth
+177,21,ME,Maine,2003,52,13855,1,Birth
+178,22,MD,Maryland,2003,62.4,74930,1,Birth
+179,23,MA,Massachusetts,2003,57.2,80184,1,Birth
+180,24,MI,Michigan,2003,61.7,131094,1,Birth
+181,25,MN,Minnesota,2003,64.1,70050,1,Birth
+182,26,MS,Mississippi,2003,67.9,42380,1,Birth
+183,27,MO,Missouri,2003,64.1,77045,1,Birth
+184,28,MT,Montana,2003,62.6,11422,1,Birth
+185,29,NE,Nebraska,2003,71.4,25917,1,Birth
+186,30,NV,Nevada,2003,72.2,33647,1,Birth
+187,31,NH,New Hampshire,2003,52.7,14393,1,Birth
+188,32,NJ,New Jersey,2003,64.9,116983,1,Birth
+189,33,NM,New Mexico,2003,71.4,27821,1,Birth
+190,34,NY,New York,2003,61,253714,1,Birth
+191,35,NC,North Carolina,2003,65.8,118323,1,Birth
+192,36,ND,North Dakota,2003,61.6,7972,1,Birth
+193,37,OH,Ohio,2003,62.7,149679,1,Birth
+194,38,OK,Oklahoma,2003,69.9,50981,1,Birth
+195,39,OR,Oregon,2003,62.5,45953,1,Birth
+196,40,PA,Pennsylvania,2003,58.1,145959,1,Birth
+197,41,RI,Rhode Island,2003,56.6,13209,1,Birth
+198,42,SC,South Carolina,2003,62.9,55649,1,Birth
+199,43,SD,South Dakota,2003,70.8,11027,1,Birth
+200,44,TN,Tennessee,2003,63.1,78890,1,Birth
+201,45,TX,Texas,2003,77.5,377476,1,Birth
+202,46,UT,Utah,2003,92.2,49860,1,Birth
+203,47,VT,Vermont,2003,51.1,6589,1,Birth
+204,48,VA,Virginia,2003,63.3,101254,1,Birth
+205,49,WA,Washington,2003,61.2,80489,1,Birth
+206,50,WV,West Virginia,2003,58.1,20935,1,Birth
+207,51,WI,Wisconsin,2003,60.7,70040,1,Birth
+208,52,WY,Wyoming,2003,65.6,6700,1,Birth
+209,1,US,United States,2004,66.3,4112052,1,Birth
+210,2,AL,Alabama,2004,62.4,59510,1,Birth
+211,3,AK,Alaska,2004,74.4,10338,1,Birth
+212,4,AZ,Arizona,2004,79.5,93663,1,Birth
+213,5,AR,Arkansas,2004,68.3,38573,1,Birth
+214,6,CA,California,2004,70.4,544843,1,Birth
+215,7,CO,Colorado,2004,68.8,68503,1,Birth
+216,8,CT,Connecticut,2004,58.8,42095,1,Birth
+217,9,DE,Delaware,2004,63.8,11369,1,Birth
+218,10,DC,District of Columbia,2004,58.2,7933,1,Birth
+219,11,FL,Florida,2004,64.1,218053,1,Birth
+220,12,GA,Georgia,2004,70.1,138849,1,Birth
+221,13,HI,Hawaii,2004,74,18281,1,Birth
+222,14,ID,Idaho,2004,77.3,22532,1,Birth
+223,15,IL,Illinois,2004,66.7,180778,1,Birth
+224,16,IN,Indiana,2004,67,87142,1,Birth
+225,17,IA,Iowa,2004,63.8,38438,1,Birth
+226,18,KS,Kansas,2004,69.8,39669,1,Birth
+227,19,KY,Kentucky,2004,63.6,55720,1,Birth
+228,20,LA,Louisiana,2004,66.7,65369,1,Birth
+229,21,ME,Maine,2004,52.4,13944,1,Birth
+230,22,MD,Maryland,2004,62.3,74628,1,Birth
+231,23,MA,Massachusetts,2004,56.5,78484,1,Birth
+232,24,MI,Michigan,2004,61.4,129776,1,Birth
+233,25,MN,Minnesota,2004,64.5,70624,1,Birth
+234,26,MS,Mississippi,2004,68.3,42827,1,Birth
+235,27,MO,Missouri,2004,64.3,77765,1,Birth
+236,28,MT,Montana,2004,62.7,11519,1,Birth
+237,29,NE,Nebraska,2004,72.6,26332,1,Birth
+238,30,NV,Nevada,2004,72.6,35200,1,Birth
+239,31,NH,New Hampshire,2004,53.4,14565,1,Birth
+240,32,NJ,New Jersey,2004,64.2,115253,1,Birth
+241,33,NM,New Mexico,2004,71.9,28384,1,Birth
+242,34,NY,New York,2004,60.7,249947,1,Birth
+243,35,NC,North Carolina,2004,66,119847,1,Birth
+244,36,ND,North Dakota,2004,63.2,8189,1,Birth
+245,37,OH,Ohio,2004,62.7,148954,1,Birth
+246,38,OK,Oklahoma,2004,70.3,51306,1,Birth
+247,39,OR,Oregon,2004,61.8,45678,1,Birth
+248,40,PA,Pennsylvania,2004,58,144748,1,Birth
+249,41,RI,Rhode Island,2004,55,12779,1,Birth
+250,42,SC,South Carolina,2004,63.6,56590,1,Birth
+251,43,SD,South Dakota,2004,72.4,11338,1,Birth
+252,44,TN,Tennessee,2004,63.4,79642,1,Birth
+253,45,TX,Texas,2004,77.3,381293,1,Birth
+254,46,UT,Utah,2004,92.3,50670,1,Birth
+255,47,VT,Vermont,2004,52.1,6599,1,Birth
+256,48,VA,Virginia,2004,65,103933,1,Birth
+257,49,WA,Washington,2004,61.7,81747,1,Birth
+258,50,WV,West Virginia,2004,58.3,20880,1,Birth
+259,51,WI,Wisconsin,2004,60.7,70146,1,Birth
+260,52,WY,Wyoming,2004,66.5,6807,1,Birth
+261,1,US,United States,2005,66.7,4138349,1,Birth
+262,2,AL,Alabama,2005,63.5,60453,1,Birth
+263,3,AK,Alaska,2005,75.4,10459,1,Birth
+264,4,AZ,Arizona,2005,79.2,96199,1,Birth
+265,5,AR,Arkansas,2005,69.1,39208,1,Birth
+266,6,CA,California,2005,71.3,548882,1,Birth
+267,7,CO,Colorado,2005,68.8,68944,1,Birth
+268,8,CT,Connecticut,2005,58.7,41718,1,Birth
+269,9,DE,Delaware,2005,65.1,11643,1,Birth
+270,10,DC,District of Columbia,2005,59.8,7971,1,Birth
+271,11,FL,Florida,2005,65.6,226240,1,Birth
+272,12,GA,Georgia,2005,70,142200,1,Birth
+273,13,HI,Hawaii,2005,72.9,17924,1,Birth
+274,14,ID,Idaho,2005,77.4,23062,1,Birth
+275,15,IL,Illinois,2005,66.4,179020,1,Birth
+276,16,IN,Indiana,2005,67.3,87193,1,Birth
+277,17,IA,Iowa,2005,65.4,39311,1,Birth
+278,18,KS,Kansas,2005,70.4,39888,1,Birth
+279,19,KY,Kentucky,2005,64.7,56444,1,Birth
+280,20,LA,Louisiana,2005,62.6,60937,1,Birth
+281,21,ME,Maine,2005,53.6,14112,1,Birth
+282,22,MD,Maryland,2005,62.8,74980,1,Birth
+283,23,MA,Massachusetts,2005,56.1,76865,1,Birth
+284,24,MI,Michigan,2005,61,127706,1,Birth
+285,25,MN,Minnesota,2005,64.9,70919,1,Birth
+286,26,MS,Mississippi,2005,67.8,42395,1,Birth
+287,27,MO,Missouri,2005,65,78618,1,Birth
+288,28,MT,Montana,2005,63.2,11583,1,Birth
+289,29,NE,Nebraska,2005,72.1,26145,1,Birth
+290,30,NV,Nevada,2005,74.5,37268,1,Birth
+291,31,NH,New Hampshire,2005,53.3,14420,1,Birth
+292,32,NJ,New Jersey,2005,63.9,113776,1,Birth
+293,33,NM,New Mexico,2005,72.8,28835,1,Birth
+294,34,NY,New York,2005,60.3,246351,1,Birth
+295,35,NC,North Carolina,2005,67.2,123096,1,Birth
+296,36,ND,North Dakota,2005,65.3,8390,1,Birth
+297,37,OH,Ohio,2005,63,148388,1,Birth
+298,38,OK,Oklahoma,2005,70.9,51801,1,Birth
+299,39,OR,Oregon,2005,61.6,45922,1,Birth
+300,40,PA,Pennsylvania,2005,58.7,145383,1,Birth
+301,41,RI,Rhode Island,2005,55.7,12697,1,Birth
+302,42,SC,South Carolina,2005,64.5,57711,1,Birth
+303,43,SD,South Dakota,2005,73.4,11462,1,Birth
+304,44,TN,Tennessee,2005,64.9,81747,1,Birth
+305,45,TX,Texas,2005,77.6,385915,1,Birth
+306,46,UT,Utah,2005,90.4,51556,1,Birth
+307,47,VT,Vermont,2005,49.6,6295,1,Birth
+308,48,VA,Virginia,2005,65.1,104555,1,Birth
+309,49,WA,Washington,2005,62.1,82703,1,Birth
+310,50,WV,West Virginia,2005,58.8,20836,1,Birth
+311,51,WI,Wisconsin,2005,61.7,70984,1,Birth
+312,52,WY,Wyoming,2005,71.3,7239,1,Birth
+313,1,US,United States,2006,68.5,4265555,1,Birth
+314,2,AL,Alabama,2006,67,63232,1,Birth
+315,3,AK,Alaska,2006,76.7,10996,1,Birth
+316,4,AZ,Arizona,2006,81.6,102429,1,Birth
+317,5,AR,Arkansas,2006,72.2,40961,1,Birth
+318,6,CA,California,2006,71.8,562440,1,Birth
+319,7,CO,Colorado,2006,70.2,70751,1,Birth
+320,8,CT,Connecticut,2006,58.8,41820,1,Birth
+321,9,DE,Delaware,2006,67.3,11989,1,Birth
+322,10,DC,District of Columbia,2006,58.4,8523,1,Birth
+323,11,FL,Florida,2006,67.3,236802,1,Birth
+324,12,GA,Georgia,2006,72.4,148633,1,Birth
+325,13,HI,Hawaii,2006,73.9,18982,1,Birth
+326,14,ID,Idaho,2006,80.9,24184,1,Birth
+327,15,IL,Illinois,2006,66.8,180572,1,Birth
+328,16,IN,Indiana,2006,68.3,88631,1,Birth
+329,17,IA,Iowa,2006,69.1,40607,1,Birth
+330,18,KS,Kansas,2006,73.3,40968,1,Birth
+331,19,KY,Kentucky,2006,67.1,58250,1,Birth
+332,20,LA,Louisiana,2006,70.6,63376,1,Birth
+333,21,ME,Maine,2006,54.5,14151,1,Birth
+334,22,MD,Maryland,2006,64.2,77494,1,Birth
+335,23,MA,Massachusetts,2006,56.9,77676,1,Birth
+336,24,MI,Michigan,2006,61.7,127483,1,Birth
+337,25,MN,Minnesota,2006,68.7,73525,1,Birth
+338,26,MS,Mississippi,2006,75.7,46056,1,Birth
+339,27,MO,Missouri,2006,67.9,81385,1,Birth
+340,28,MT,Montana,2006,69.5,12508,1,Birth
+341,29,NE,Nebraska,2006,75.1,26727,1,Birth
+342,30,NV,Nevada,2006,77.9,40027,1,Birth
+343,31,NH,New Hampshire,2006,53.4,14378,1,Birth
+344,32,NJ,New Jersey,2006,64.5,115020,1,Birth
+345,33,NM,New Mexico,2006,74.7,29936,1,Birth
+346,34,NY,New York,2006,61.1,250104,1,Birth
+347,35,NC,North Carolina,2006,69,127859,1,Birth
+348,36,ND,North Dakota,2006,68.7,8621,1,Birth
+349,37,OH,Ohio,2006,64.7,150593,1,Birth
+350,38,OK,Oklahoma,2006,74.7,54016,1,Birth
+351,39,OR,Oregon,2006,65.4,48689,1,Birth
+352,40,PA,Pennsylvania,2006,60.6,149090,1,Birth
+353,41,RI,Rhode Island,2006,54.6,12372,1,Birth
+354,42,SC,South Carolina,2006,69.6,62171,1,Birth
+355,43,SD,South Dakota,2006,78.5,11919,1,Birth
+356,44,TN,Tennessee,2006,67.5,84355,1,Birth
+357,45,TX,Texas,2006,78.8,399603,1,Birth
+358,46,UT,Utah,2006,94.1,53504,1,Birth
+359,47,VT,Vermont,2006,52.2,6511,1,Birth
+360,48,VA,Virginia,2006,66.3,107817,1,Birth
+361,49,WA,Washington,2006,65.2,86876,1,Birth
+362,50,WV,West Virginia,2006,59.4,20931,1,Birth
+363,51,WI,Wisconsin,2006,64,72340,1,Birth
+364,52,WY,Wyoming,2006,75.9,7672,1,Birth
+365,1,US,United States,2007,69.5,4316233,1,Birth
+366,2,AL,Alabama,2007,68.7,64804,1,Birth
+367,3,AK,Alaska,2007,77.2,11052,1,Birth
+368,4,AZ,Arizona,2007,81.1,102981,1,Birth
+369,5,AR,Arkansas,2007,73.1,41378,1,Birth
+370,6,CA,California,2007,72.5,566414,1,Birth
+371,7,CO,Colorado,2007,69.8,70809,1,Birth
+372,8,CT,Connecticut,2007,59.5,41660,1,Birth
+373,9,DE,Delaware,2007,68.4,12170,1,Birth
+374,10,DC,District of Columbia,2007,60,8864,1,Birth
+375,11,FL,Florida,2007,68.4,239165,1,Birth
+376,12,GA,Georgia,2007,73.3,151137,1,Birth
+377,13,HI,Hawaii,2007,76,19134,1,Birth
+378,14,ID,Idaho,2007,83.4,25019,1,Birth
+379,15,IL,Illinois,2007,67.3,180836,1,Birth
+380,16,IN,Indiana,2007,69.7,89864,1,Birth
+381,17,IA,Iowa,2007,70.1,40886,1,Birth
+382,18,KS,Kansas,2007,75.6,42004,1,Birth
+383,19,KY,Kentucky,2007,68.6,59368,1,Birth
+384,20,LA,Louisiana,2007,73.4,66301,1,Birth
+385,21,ME,Maine,2007,55.6,14120,1,Birth
+386,22,MD,Maryland,2007,65.6,78095,1,Birth
+387,23,MA,Massachusetts,2007,57.4,77967,1,Birth
+388,24,MI,Michigan,2007,61.4,125261,1,Birth
+389,25,MN,Minnesota,2007,69.7,73735,1,Birth
+390,26,MS,Mississippi,2007,76.9,46491,1,Birth
+391,27,MO,Missouri,2007,68.8,81930,1,Birth
+392,28,MT,Montana,2007,68.6,12439,1,Birth
+393,29,NE,Nebraska,2007,76.2,26934,1,Birth
+394,30,NV,Nevada,2007,79.5,41181,1,Birth
+395,31,NH,New Hampshire,2007,53.8,14168,1,Birth
+396,32,NJ,New Jersey,2007,66.1,116063,1,Birth
+397,33,NM,New Mexico,2007,76.6,30616,1,Birth
+398,34,NY,New York,2007,62.1,253451,1,Birth
+399,35,NC,North Carolina,2007,69.6,131037,1,Birth
+400,36,ND,North Dakota,2007,69.8,8840,1,Birth
+401,37,OH,Ohio,2007,65.5,150879,1,Birth
+402,38,OK,Oklahoma,2007,76,55065,1,Birth
+403,39,OR,Oregon,2007,66.1,49378,1,Birth
+404,40,PA,Pennsylvania,2007,61.9,150713,1,Birth
+405,41,RI,Rhode Island,2007,55.8,12376,1,Birth
+406,42,SC,South Carolina,2007,69.9,62875,1,Birth
+407,43,SD,South Dakota,2007,80,12261,1,Birth
+408,44,TN,Tennessee,2007,68.8,86711,1,Birth
+409,45,TX,Texas,2007,80.1,407625,1,Birth
+410,46,UT,Utah,2007,94.4,55130,1,Birth
+411,47,VT,Vermont,2007,53.2,6513,1,Birth
+412,48,VA,Virginia,2007,67,108884,1,Birth
+413,49,WA,Washington,2007,67,88978,1,Birth
+414,50,WV,West Virginia,2007,63.1,21994,1,Birth
+415,51,WI,Wisconsin,2007,65,72784,1,Birth
+416,52,WY,Wyoming,2007,77.7,7893,1,Birth
+417,1,US,United States,2008,68.6,4247694,1,Birth
+418,2,AL,Alabama,2008,68.5,64546,1,Birth
+419,3,AK,Alaska,2008,80.9,11442,1,Birth
+420,4,AZ,Arizona,2008,77.4,99442,1,Birth
+421,5,AR,Arkansas,2008,72.1,40669,1,Birth
+422,6,CA,California,2008,71,551779,1,Birth
+423,7,CO,Colorado,2008,68.8,70031,1,Birth
+424,8,CT,Connecticut,2008,58.4,40399,1,Birth
+425,9,DE,Delaware,2008,68.4,12090,1,Birth
+426,10,DC,District of Columbia,2008,61.3,9130,1,Birth
+427,11,FL,Florida,2008,66.7,231445,1,Birth
+428,12,GA,Georgia,2008,70.9,146603,1,Birth
+429,13,HI,Hawaii,2008,78.3,19484,1,Birth
+430,14,ID,Idaho,2008,83.4,25149,1,Birth
+431,15,IL,Illinois,2008,66,176795,1,Birth
+432,16,IN,Indiana,2008,69.3,88742,1,Birth
+433,17,IA,Iowa,2008,69.5,40224,1,Birth
+434,18,KS,Kansas,2008,75.6,41833,1,Birth
+435,19,KY,Kentucky,2008,67.7,58375,1,Birth
+436,20,LA,Louisiana,2008,70.9,65268,1,Birth
+437,21,ME,Maine,2008,54.5,13609,1,Birth
+438,22,MD,Maryland,2008,65.4,77289,1,Birth
+439,23,MA,Massachusetts,2008,56.7,77022,1,Birth
+440,24,MI,Michigan,2008,60.5,121127,1,Birth
+441,25,MN,Minnesota,2008,69.1,72421,1,Birth
+442,26,MS,Mississippi,2008,74.4,44947,1,Birth
+443,27,MO,Missouri,2008,68.3,80963,1,Birth
+444,28,MT,Montana,2008,69.5,12594,1,Birth
+445,29,NE,Nebraska,2008,76.9,26989,1,Birth
+446,30,NV,Nevada,2008,76,39506,1,Birth
+447,31,NH,New Hampshire,2008,52.8,13683,1,Birth
+448,32,NJ,New Jersey,2008,65.1,112710,1,Birth
+449,33,NM,New Mexico,2008,75.9,30173,1,Birth
+450,34,NY,New York,2008,61.4,250383,1,Birth
+451,35,NC,North Carolina,2008,69.1,130839,1,Birth
+452,36,ND,North Dakota,2008,71.3,8938,1,Birth
+453,37,OH,Ohio,2008,65.1,148821,1,Birth
+454,38,OK,Oklahoma,2008,75.9,54781,1,Birth
+455,39,OR,Oregon,2008,65.6,49096,1,Birth
+456,40,PA,Pennsylvania,2008,61.8,149273,1,Birth
+457,41,RI,Rhode Island,2008,55.3,12048,1,Birth
+458,42,SC,South Carolina,2008,69.7,63071,1,Birth
+459,43,SD,South Dakota,2008,79.1,12071,1,Birth
+460,44,TN,Tennessee,2008,68,85560,1,Birth
+461,45,TX,Texas,2008,79.1,405554,1,Birth
+462,46,UT,Utah,2008,93.1,55634,1,Birth
+463,47,VT,Vermont,2008,52.4,6339,1,Birth
+464,48,VA,Virginia,2008,66,106686,1,Birth
+465,49,WA,Washington,2008,68,90321,1,Birth
+466,50,WV,West Virginia,2008,62.2,21501,1,Birth
+467,51,WI,Wisconsin,2008,64.9,72261,1,Birth
+468,52,WY,Wyoming,2008,78.4,8038,1,Birth
+469,1,US,United States,2009,66.7,4130665,1,Birth
+470,2,AL,Alabama,2009,65.7,62475,1,Birth
+471,3,AK,Alaska,2009,78.3,11324,1,Birth
+472,4,AZ,Arizona,2009,71.5,92798,1,Birth
+473,5,AR,Arkansas,2009,70,39808,1,Birth
+474,6,CA,California,2009,68.5,527020,1,Birth
+475,7,CO,Colorado,2009,66.8,68628,1,Birth
+476,8,CT,Connecticut,2009,56.5,38896,1,Birth
+477,9,DE,Delaware,2009,65.4,11559,1,Birth
+478,10,DC,District of Columbia,2009,59.9,9040,1,Birth
+479,11,FL,Florida,2009,63.6,221394,1,Birth
+480,12,GA,Georgia,2009,67.7,141377,1,Birth
+481,13,HI,Hawaii,2009,75.8,18887,1,Birth
+482,14,ID,Idaho,2009,77.5,23737,1,Birth
+483,15,IL,Illinois,2009,64.7,171163,1,Birth
+484,16,IN,Indiana,2009,67.6,86673,1,Birth
+485,17,IA,Iowa,2009,68.7,39701,1,Birth
+486,18,KS,Kansas,2009,74.7,41396,1,Birth
+487,19,KY,Kentucky,2009,66.6,57551,1,Birth
+488,20,LA,Louisiana,2009,69.8,64973,1,Birth
+489,21,ME,Maine,2009,54.8,13470,1,Birth
+490,22,MD,Maryland,2009,63.8,75059,1,Birth
+491,23,MA,Massachusetts,2009,55.3,75016,1,Birth
+492,24,MI,Michigan,2009,59.8,117294,1,Birth
+493,25,MN,Minnesota,2009,67.5,70646,1,Birth
+494,26,MS,Mississippi,2009,70.9,42901,1,Birth
+495,27,MO,Missouri,2009,66.2,78905,1,Birth
+496,28,MT,Montana,2009,67.2,12257,1,Birth
+497,29,NE,Nebraska,2009,76.4,26936,1,Birth
+498,30,NV,Nevada,2009,71.2,37612,1,Birth
+499,31,NH,New Hampshire,2009,51.9,13377,1,Birth
+500,32,NJ,New Jersey,2009,64.5,110331,1,Birth
+501,33,NM,New Mexico,2009,73.4,29000,1,Birth
+502,34,NY,New York,2009,61.7,248110,1,Birth
+503,35,NC,North Carolina,2009,66.3,126845,1,Birth
+504,36,ND,North Dakota,2009,70.8,9001,1,Birth
+505,37,OH,Ohio,2009,63.8,144841,1,Birth
+506,38,OK,Oklahoma,2009,74.8,54553,1,Birth
+507,39,OR,Oregon,2009,62.4,47132,1,Birth
+508,40,PA,Pennsylvania,2009,60.1,146434,1,Birth
+509,41,RI,Rhode Island,2009,53.6,11442,1,Birth
+510,42,SC,South Carolina,2009,66.3,60620,1,Birth
+511,43,SD,South Dakota,2009,77.7,11934,1,Birth
+512,44,TN,Tennessee,2009,64.7,82211,1,Birth
+513,45,TX,Texas,2009,77.6,401977,1,Birth
+514,46,UT,Utah,2009,88.4,53887,1,Birth
+515,47,VT,Vermont,2009,50.8,6110,1,Birth
+516,48,VA,Virginia,2009,64.4,105059,1,Birth
+517,49,WA,Washington,2009,66.4,89313,1,Birth
+518,50,WV,West Virginia,2009,61.7,21268,1,Birth
+519,51,WI,Wisconsin,2009,63.7,70843,1,Birth
+520,52,WY,Wyoming,2009,75,7881,1,Birth
+521,1,US,United States,2010,64.1,3999386,1,Birth
+522,2,AL,Alabama,2010,62.5,60050,1,Birth
+523,3,AK,Alaska,2010,80.1,11471,1,Birth
+524,4,AZ,Arizona,2010,69.3,87477,1,Birth
+525,5,AR,Arkansas,2010,67.7,38540,1,Birth
+526,6,CA,California,2010,64.8,510198,1,Birth
+527,7,CO,Colorado,2010,64.7,66355,1,Birth
+528,8,CT,Connecticut,2010,54.5,37708,1,Birth
+529,9,DE,Delaware,2010,63.4,11364,1,Birth
+530,10,DC,District of Columbia,2010,56.5,9165,1,Birth
+531,11,FL,Florida,2010,60.3,214590,1,Birth
+532,12,GA,Georgia,2010,64.6,133947,1,Birth
+533,13,HI,Hawaii,2010,72.4,18988,1,Birth
+534,14,ID,Idaho,2010,75.7,23198,1,Birth
+535,15,IL,Illinois,2010,62.8,165200,1,Birth
+536,16,IN,Indiana,2010,65.2,83940,1,Birth
+537,17,IA,Iowa,2010,67.1,38719,1,Birth
+538,18,KS,Kansas,2010,73.3,40649,1,Birth
+539,19,KY,Kentucky,2010,65.3,55784,1,Birth
+540,20,LA,Louisiana,2010,67.2,62379,1,Birth
+541,21,ME,Maine,2010,53.6,12970,1,Birth
+542,22,MD,Maryland,2010,61.8,73801,1,Birth
+543,23,MA,Massachusetts,2010,54,72865,1,Birth
+544,24,MI,Michigan,2010,59.7,114531,1,Birth
+545,25,MN,Minnesota,2010,65.6,68610,1,Birth
+546,26,MS,Mississippi,2010,66.3,40036,1,Birth
+547,27,MO,Missouri,2010,65.2,76759,1,Birth
+548,28,MT,Montana,2010,67.1,12060,1,Birth
+549,29,NE,Nebraska,2010,73,25918,1,Birth
+550,30,NV,Nevada,2010,65.3,35934,1,Birth
+551,31,NH,New Hampshire,2010,51.5,12874,1,Birth
+552,32,NJ,New Jersey,2010,61.5,106922,1,Birth
+553,33,NM,New Mexico,2010,69.9,27850,1,Birth
+554,34,NY,New York,2010,60.4,244375,1,Birth
+555,35,NC,North Carolina,2010,62.8,122350,1,Birth
+556,36,ND,North Dakota,2010,70.5,9104,1,Birth
+557,37,OH,Ohio,2010,62.2,139128,1,Birth
+558,38,OK,Oklahoma,2010,72.3,53238,1,Birth
+559,39,OR,Oregon,2010,60.4,45540,1,Birth
+560,40,PA,Pennsylvania,2010,58.7,143321,1,Birth
+561,41,RI,Rhode Island,2010,52.1,11177,1,Birth
+562,42,SC,South Carolina,2010,62.8,58342,1,Birth
+563,43,SD,South Dakota,2010,77.5,11811,1,Birth
+564,44,TN,Tennessee,2010,62.4,79495,1,Birth
+565,45,TX,Texas,2010,72.5,386118,1,Birth
+566,46,UT,Utah,2010,86.8,52258,1,Birth
+567,47,VT,Vermont,2010,52.6,6223,1,Birth
+568,48,VA,Virginia,2010,62.3,103002,1,Birth
+569,49,WA,Washington,2010,63.8,86539,1,Birth
+570,50,WV,West Virginia,2010,59.9,20470,1,Birth
+571,51,WI,Wisconsin,2010,62.4,68487,1,Birth
+572,52,WY,Wyoming,2010,70.9,7556,1,Birth
+573,1,US,United States,2011,63.2,3953590,1,Birth
+574,2,AL,Alabama,2011,61.8,59354,1,Birth
+575,3,AK,Alaska,2011,78.5,11456,1,Birth
+576,4,AZ,Arizona,2011,67.3,85543,1,Birth
+577,5,AR,Arkansas,2011,67.8,38715,1,Birth
+578,6,CA,California,2011,63.4,502120,1,Birth
+579,7,CO,Colorado,2011,62.7,65055,1,Birth
+580,8,CT,Connecticut,2011,54.3,37281,1,Birth
+581,9,DE,Delaware,2011,62.9,11257,1,Birth
+582,10,DC,District of Columbia,2011,56,9295,1,Birth
+583,11,FL,Florida,2011,59.6,213414,1,Birth
+584,12,GA,Georgia,2011,63.8,132409,1,Birth
+585,13,HI,Hawaii,2011,71.9,18956,1,Birth
+586,14,ID,Idaho,2011,72.3,22305,1,Birth
+587,15,IL,Illinois,2011,61.5,161312,1,Birth
+588,16,IN,Indiana,2011,65,83701,1,Birth
+589,17,IA,Iowa,2011,66.1,38214,1,Birth
+590,18,KS,Kansas,2011,71.2,39642,1,Birth
+591,19,KY,Kentucky,2011,64.7,55370,1,Birth
+592,20,LA,Louisiana,2011,66.4,61888,1,Birth
+593,21,ME,Maine,2011,53.1,12704,1,Birth
+594,22,MD,Maryland,2011,61.3,73093,1,Birth
+595,23,MA,Massachusetts,2011,54.3,73166,1,Birth
+596,24,MI,Michigan,2011,59.9,114008,1,Birth
+597,25,MN,Minnesota,2011,65.5,68409,1,Birth
+598,26,MS,Mississippi,2011,66,39860,1,Birth
+599,27,MO,Missouri,2011,64.8,76117,1,Birth
+600,28,MT,Montana,2011,66.7,12069,1,Birth
+601,29,NE,Nebraska,2011,72,25720,1,Birth
+602,30,NV,Nevada,2011,64.2,35296,1,Birth
+603,31,NH,New Hampshire,2011,51.9,12851,1,Birth
+604,32,NJ,New Jersey,2011,61.3,105883,1,Birth
+605,33,NM,New Mexico,2011,68.2,27289,1,Birth
+606,34,NY,New York,2011,59.8,241312,1,Birth
+607,35,NC,North Carolina,2011,61.5,120389,1,Birth
+608,36,ND,North Dakota,2011,72.4,9527,1,Birth
+609,37,OH,Ohio,2011,62.1,137918,1,Birth
+610,38,OK,Oklahoma,2011,70.4,52272,1,Birth
+611,39,OR,Oregon,2011,59.4,45155,1,Birth
+612,40,PA,Pennsylvania,2011,58.8,143178,1,Birth
+613,41,RI,Rhode Island,2011,51.5,10960,1,Birth
+614,42,SC,South Carolina,2011,61.8,57393,1,Birth
+615,43,SD,South Dakota,2011,77.1,11846,1,Birth
+616,44,TN,Tennessee,2011,62.3,79588,1,Birth
+617,45,TX,Texas,2011,69.8,377445,1,Birth
+618,46,UT,Utah,2011,83.6,51223,1,Birth
+619,47,VT,Vermont,2011,51.8,6078,1,Birth
+620,48,VA,Virginia,2011,61.9,102652,1,Birth
+621,49,WA,Washington,2011,63.7,86976,1,Birth
+622,50,WV,West Virginia,2011,60.7,20717,1,Birth
+623,51,WI,Wisconsin,2011,62,67810,1,Birth
+624,52,WY,Wyoming,2011,69.1,7399,1,Birth
+625,1,US,United States,2012,63,3952841,1,Birth
+626,2,AL,Alabama,2012,60.9,58448,1,Birth
+627,3,AK,Alaska,2012,75.9,11187,1,Birth
+628,4,AZ,Arizona,2012,67.5,86441,1,Birth
+629,5,AR,Arkansas,2012,67,38347,1,Birth
+630,6,CA,California,2012,63.3,503755,1,Birth
+631,7,CO,Colorado,2012,62,65187,1,Birth
+632,8,CT,Connecticut,2012,53.2,36539,1,Birth
+633,9,DE,Delaware,2012,61.4,11023,1,Birth
+634,10,DC,District of Columbia,2012,55.3,9399,1,Birth
+635,11,FL,Florida,2012,59,213148,1,Birth
+636,12,GA,Georgia,2012,62.4,130280,1,Birth
+637,13,HI,Hawaii,2012,71.6,18980,1,Birth
+638,14,ID,Idaho,2012,74.1,22963,1,Birth
+639,15,IL,Illinois,2012,60.9,159160,1,Birth
+640,16,IN,Indiana,2012,64.7,83227,1,Birth
+641,17,IA,Iowa,2012,66.8,38702,1,Birth
+642,18,KS,Kansas,2012,72.3,40341,1,Birth
+643,19,KY,Kentucky,2012,65.4,55758,1,Birth
+644,20,LA,Louisiana,2012,67,62642,1,Birth
+645,21,ME,Maine,2012,53.9,12798,1,Birth
+646,22,MD,Maryland,2012,60.8,72883,1,Birth
+647,23,MA,Massachusetts,2012,53.5,72439,1,Birth
+648,24,MI,Michigan,2012,59.6,113091,1,Birth
+649,25,MN,Minnesota,2012,65.7,68772,1,Birth
+650,26,MS,Mississippi,2012,64.2,38669,1,Birth
+651,27,MO,Missouri,2012,64.3,75446,1,Birth
+652,28,MT,Montana,2012,66.6,12118,1,Birth
+653,29,NE,Nebraska,2012,72.3,25942,1,Birth
+654,30,NV,Nevada,2012,63,34911,1,Birth
+655,31,NH,New Hampshire,2012,50.3,12352,1,Birth
+656,32,NJ,New Jersey,2012,60.4,104230,1,Birth
+657,33,NM,New Mexico,2012,67.8,27068,1,Birth
+658,34,NY,New York,2012,59.7,240916,1,Birth
+659,35,NC,North Carolina,2012,61,119831,1,Birth
+660,36,ND,North Dakota,2012,74.6,10106,1,Birth
+661,37,OH,Ohio,2012,62.6,138483,1,Birth
+662,38,OK,Oklahoma,2012,70.5,52751,1,Birth
+663,39,OR,Oregon,2012,59,45067,1,Birth
+664,40,PA,Pennsylvania,2012,58.8,142514,1,Birth
+665,41,RI,Rhode Island,2012,51.7,10926,1,Birth
+666,42,SC,South Carolina,2012,61.4,57155,1,Birth
+667,43,SD,South Dakota,2012,78.1,12104,1,Birth
+668,44,TN,Tennessee,2012,62.6,80371,1,Birth
+669,45,TX,Texas,2012,69.9,382727,1,Birth
+670,46,UT,Utah,2012,83.1,51465,1,Birth
+671,47,VT,Vermont,2012,51.6,6009,1,Birth
+672,48,VA,Virginia,2012,61.7,103013,1,Birth
+673,49,WA,Washington,2012,63.5,87463,1,Birth
+674,50,WV,West Virginia,2012,61.3,20827,1,Birth
+675,51,WI,Wisconsin,2012,61.8,67295,1,Birth
+676,52,WY,Wyoming,2012,69.5,7572,1,Birth
+677,1,US,United States,2013,62.5,3932181,1,Birth
+678,2,AL,Alabama,2013,60.6,58167,1,Birth
+679,3,AK,Alaska,2013,77.8,11446,1,Birth
+680,4,AZ,Arizona,2013,66.3,85600,1,Birth
+681,5,AR,Arkansas,2013,65.9,37832,1,Birth
+682,6,CA,California,2013,62,494705,1,Birth
+683,7,CO,Colorado,2013,61,65007,1,Birth
+684,8,CT,Connecticut,2013,52.7,36085,1,Birth
+685,9,DE,Delaware,2013,60.3,10831,1,Birth
+686,10,DC,District of Columbia,2013,53.3,9288,1,Birth
+687,11,FL,Florida,2013,59.3,215407,1,Birth
+688,12,GA,Georgia,2013,61.6,128748,1,Birth
+689,13,HI,Hawaii,2013,71.5,18987,1,Birth
+690,14,ID,Idaho,2013,71.8,22383,1,Birth
+691,15,IL,Illinois,2013,60.3,156931,1,Birth
+692,16,IN,Indiana,2013,64.3,83102,1,Birth
+693,17,IA,Iowa,2013,67.1,39094,1,Birth
+694,18,KS,Kansas,2013,69.5,38839,1,Birth
+695,19,KY,Kentucky,2013,65.3,55686,1,Birth
+696,20,LA,Louisiana,2013,67.3,63201,1,Birth
+697,21,ME,Maine,2013,54.4,12776,1,Birth
+698,22,MD,Maryland,2013,60.1,71953,1,Birth
+699,23,MA,Massachusetts,2013,52.8,71788,1,Birth
+700,24,MI,Michigan,2013,60,113489,1,Birth
+701,25,MN,Minnesota,2013,65.9,69159,1,Birth
+702,26,MS,Mississippi,2013,64.2,38634,1,Birth
+703,27,MO,Missouri,2013,64.1,75296,1,Birth
+704,28,MT,Montana,2013,67.2,12377,1,Birth
+705,29,NE,Nebraska,2013,72.2,26095,1,Birth
+706,30,NV,Nevada,2013,62.8,35030,1,Birth
+707,31,NH,New Hampshire,2013,50.8,12396,1,Birth
+708,32,NJ,New Jersey,2013,59.6,102575,1,Birth
+709,33,NM,New Mexico,2013,66.1,26354,1,Birth
+710,34,NY,New York,2013,58.8,236980,1,Birth
+711,35,NC,North Carolina,2013,60.4,119002,1,Birth
+712,36,ND,North Dakota,2013,75.3,10599,1,Birth
+713,37,OH,Ohio,2013,62.7,138936,1,Birth
+714,38,OK,Oklahoma,2013,70.6,53369,1,Birth
+715,39,OR,Oregon,2013,58.6,45155,1,Birth
+716,40,PA,Pennsylvania,2013,58.4,140921,1,Birth
+717,41,RI,Rhode Island,2013,51.6,10809,1,Birth
+718,42,SC,South Carolina,2013,60.6,56795,1,Birth
+719,43,SD,South Dakota,2013,78.1,12248,1,Birth
+720,44,TN,Tennessee,2013,62.1,79992,1,Birth
+721,45,TX,Texas,2013,69.9,387340,1,Birth
+722,46,UT,Utah,2013,80.9,50957,1,Birth
+723,47,VT,Vermont,2013,51.4,5975,1,Birth
+724,48,VA,Virginia,2013,60.9,102147,1,Birth
+725,49,WA,Washington,2013,62.6,86577,1,Birth
+726,50,WV,West Virginia,2013,61.5,20825,1,Birth
+727,51,WI,Wisconsin,2013,61.3,66649,1,Birth
+728,52,WY,Wyoming,2013,69.3,7644,1,Birth
+729,1,US,United States,2014,62.9,3988076,1,Birth
+730,2,AL,Alabama,2014,61.8,59422,1,Birth
+731,3,AK,Alaska,2014,77.3,11392,1,Birth
+732,4,AZ,Arizona,2014,66.4,86887,1,Birth
+733,5,AR,Arkansas,2014,67,38511,1,Birth
+734,6,CA,California,2014,62.4,502879,1,Birth
+735,7,CO,Colorado,2014,60.7,65830,1,Birth
+736,8,CT,Connecticut,2014,53,36285,1,Birth
+737,9,DE,Delaware,2014,60.8,10972,1,Birth
+738,10,DC,District of Columbia,2014,53.6,9509,1,Birth
+739,11,FL,Florida,2014,59.7,219991,1,Birth
+740,12,GA,Georgia,2014,62.2,130946,1,Birth
+741,13,HI,Hawaii,2014,69.3,18550,1,Birth
+742,14,ID,Idaho,2014,72.7,22876,1,Birth
+743,15,IL,Illinois,2014,61.1,158556,1,Birth
+744,16,IN,Indiana,2014,64.9,84080,1,Birth
+745,17,IA,Iowa,2014,67.8,39687,1,Birth
+746,18,KS,Kansas,2014,70,39223,1,Birth
+747,19,KY,Kentucky,2014,65.8,56170,1,Birth
+748,20,LA,Louisiana,2014,68.4,64497,1,Birth
+749,21,ME,Maine,2014,54.3,12698,1,Birth
+750,22,MD,Maryland,2014,61.5,73921,1,Birth
+751,23,MA,Massachusetts,2014,52.5,71908,1,Birth
+752,24,MI,Michigan,2014,60.6,114375,1,Birth
+753,25,MN,Minnesota,2014,66.4,69904,1,Birth
+754,26,MS,Mississippi,2014,64.4,38736,1,Birth
+755,27,MO,Missouri,2014,64.1,75360,1,Birth
+756,28,MT,Montana,2014,67,12432,1,Birth
+757,29,NE,Nebraska,2014,73.6,26794,1,Birth
+758,30,NV,Nevada,2014,63.3,35861,1,Birth
+759,31,NH,New Hampshire,2014,50.5,12302,1,Birth
+760,32,NJ,New Jersey,2014,59.9,103305,1,Birth
+761,33,NM,New Mexico,2014,65.5,26052,1,Birth
+762,34,NY,New York,2014,59,238773,1,Birth
+763,35,NC,North Carolina,2014,61,120975,1,Birth
+764,36,ND,North Dakota,2014,78.8,11359,1,Birth
+765,37,OH,Ohio,2014,63.1,139467,1,Birth
+766,38,OK,Oklahoma,2014,69.9,53339,1,Birth
+767,39,OR,Oregon,2014,58.7,45556,1,Birth
+768,40,PA,Pennsylvania,2014,59.1,142268,1,Birth
+769,41,RI,Rhode Island,2014,51.5,10823,1,Birth
+770,42,SC,South Carolina,2014,61.1,57627,1,Birth
+771,43,SD,South Dakota,2014,77.8,12283,1,Birth
+772,44,TN,Tennessee,2014,63,81602,1,Birth
+773,45,TX,Texas,2014,70.7,399766,1,Birth
+774,46,UT,Utah,2014,80,51154,1,Birth
+775,47,VT,Vermont,2014,52.9,6130,1,Birth
+776,48,VA,Virginia,2014,61.3,103300,1,Birth
+777,49,WA,Washington,2014,63.3,88585,1,Birth
+778,50,WV,West Virginia,2014,60.3,20301,1,Birth
+779,51,WI,Wisconsin,2014,61.8,67161,1,Birth
+780,52,WY,Wyoming,2014,69.4,7696,1,Birth
+781,1,US,United States,2015,62.5,3978497,1,Birth
+782,1,US,United States,2016,62,3945875,1,Birth
+783,7,CO,Colorado,2015,60.2,66581,1,Birth
+784,7,CO,Colorado,2016,59.3,66613,1,Birth
+785,2,AL,Alabama,2015,62.2,59657,1,Birth
+786,2,AL,Alabama,2016,62.1,59151,1,Birth
+787,3,AK,Alaska,2015,77,11282,1,Birth
+788,3,AK,Alaska,2016,76.1,11209,1,Birth
+789,4,AZ,Arizona,2015,64.7,85351,1,Birth
+790,4,AZ,Arizona,2016,63.5,84520,1,Birth
+791,5,AR,Arkansas,2015,67.5,38886,1,Birth
+792,5,AR,Arkansas,2016,66.4,38274,1,Birth
+793,6,CA,California,2015,60.8,491748,1,Birth
+794,6,CA,California,2016,60.6,488827,1,Birth
+795,8,CT,Connecticut,2015,52.5,35746,1,Birth
+796,8,CT,Connecticut,2016,53.4,36015,1,Birth
+797,9,DE,Delaware,2015,61.8,11166,1,Birth
+798,9,DE,Delaware,2016,61.2,10992,1,Birth
+799,10,DC,District of Columbia,2015,52.8,9578,1,Birth
+800,10,DC,District of Columbia,2016,53.7,9858,1,Birth
+801,11,FL,Florida,2015,60,224269,1,Birth
+802,11,FL,Florida,2016,59.7,225022,1,Birth
+803,12,GA,Georgia,2015,62,131404,1,Birth
+804,12,GA,Georgia,2016,61.1,130042,1,Birth
+805,13,HI,Hawaii,2015,68.7,18420,1,Birth
+806,13,HI,Hawaii,2016,67.6,18059,1,Birth
+807,14,ID,Idaho,2015,71.8,22827,1,Birth
+808,14,ID,Idaho,2016,69.8,22482,1,Birth
+809,15,IL,Illinois,2015,61.3,158116,1,Birth
+810,15,IL,Illinois,2016,60.6,154445,1,Birth
+811,16,IN,Indiana,2015,64.8,84040,1,Birth
+812,16,IN,Indiana,2016,64.3,83091,1,Birth
+813,17,IA,Iowa,2015,67.1,39482,1,Birth
+814,17,IA,Iowa,2016,66.9,39403,1,Birth
+815,18,KS,Kansas,2015,69.9,39154,1,Birth
+816,18,KS,Kansas,2016,68.1,38053,1,Birth
+817,19,KY,Kentucky,2015,65.7,55971,1,Birth
+818,19,KY,Kentucky,2016,65.4,55449,1,Birth
+819,20,LA,Louisiana,2015,68.5,64692,1,Birth
+820,20,LA,Louisiana,2016,67.2,63178,1,Birth
+821,21,ME,Maine,2015,54.3,12607,1,Birth
+822,21,ME,Maine,2016,54.9,12705,1,Birth
+823,22,MD,Maryland,2015,61.3,73616,1,Birth
+824,22,MD,Maryland,2016,61.3,73136,1,Birth
+825,23,MA,Massachusetts,2015,52,71492,1,Birth
+826,23,MA,Massachusetts,2016,51.9,71317,1,Birth
+827,24,MI,Michigan,2015,60.3,113312,1,Birth
+828,24,MI,Michigan,2016,60.5,113315,1,Birth
+829,25,MN,Minnesota,2015,66.3,69834,1,Birth
+830,25,MN,Minnesota,2016,66.1,69749,1,Birth
+831,26,MS,Mississippi,2015,64,38394,1,Birth
+832,26,MS,Mississippi,2016,63.7,37928,1,Birth
+833,27,MO,Missouri,2015,63.8,75061,1,Birth
+834,27,MO,Missouri,2016,63.8,74705,1,Birth
+835,28,MT,Montana,2015,67.3,12583,1,Birth
+836,28,MT,Montana,2016,65.3,12282,1,Birth
+837,29,NE,Nebraska,2015,72.8,26679,1,Birth
+838,29,NE,Nebraska,2016,72.2,26589,1,Birth
+839,30,NV,Nevada,2015,63.3,36298,1,Birth
+840,30,NV,Nevada,2016,62.6,36260,1,Birth
+841,31,NH,New Hampshire,2015,51.3,12433,1,Birth
+842,31,NH,New Hampshire,2016,50.9,12267,1,Birth
+843,32,NJ,New Jersey,2015,60,103127,1,Birth
+844,32,NJ,New Jersey,2016,60.1,102647,1,Birth
+845,33,NM,New Mexico,2015,65.3,25816,1,Birth
+846,33,NM,New Mexico,2016,62.7,24692,1,Birth
+847,34,NY,New York,2015,58.8,237274,1,Birth
+848,34,NY,New York,2016,58.6,234283,1,Birth
+849,35,NC,North Carolina,2015,60.7,120843,1,Birth
+850,35,NC,North Carolina,2016,60.3,120779,1,Birth
+851,36,ND,North Dakota,2015,76.4,11314,1,Birth
+852,36,ND,North Dakota,2016,77.3,11383,1,Birth
+853,37,OH,Ohio,2015,63.1,139264,1,Birth
+854,37,OH,Ohio,2016,62.8,138085,1,Birth
+855,38,OK,Oklahoma,2015,69.1,53122,1,Birth
+856,38,OK,Oklahoma,2016,68.4,52592,1,Birth
+857,39,OR,Oregon,2015,58.1,45655,1,Birth
+858,39,OR,Oregon,2016,57,45535,1,Birth
+859,40,PA,Pennsylvania,2015,58.7,141047,1,Birth
+860,40,PA,Pennsylvania,2016,58.5,139409,1,Birth
+861,41,RI,Rhode Island,2015,52.5,10993,1,Birth
+862,41,RI,Rhode Island,2016,51.8,10798,1,Birth
+863,42,SC,South Carolina,2015,61.1,58139,1,Birth
+864,42,SC,South Carolina,2016,59.9,57342,1,Birth
+865,43,SD,South Dakota,2015,78.2,12336,1,Birth
+866,43,SD,South Dakota,2016,77.7,12275,1,Birth
+867,44,TN,Tennessee,2015,62.8,81685,1,Birth
+868,44,TN,Tennessee,2016,62,80807,1,Birth
+869,45,TX,Texas,2015,70.2,403618,1,Birth
+870,45,TX,Texas,2016,68.6,398047,1,Birth
+871,46,UT,Utah,2015,78,50778,1,Birth
+872,46,UT,Utah,2016,76.2,50464,1,Birth
+873,47,VT,Vermont,2015,51.1,5903,1,Birth
+874,47,VT,Vermont,2016,50.3,5756,1,Birth
+875,48,VA,Virginia,2015,61.3,103303,1,Birth
+876,48,VA,Virginia,2016,61.1,102460,1,Birth
+877,49,WA,Washington,2015,62.8,88990,1,Birth
+878,49,WA,Washington,2016,63,90505,1,Birth
+879,50,WV,West Virginia,2015,59.4,19805,1,Birth
+880,50,WV,West Virginia,2016,58.2,19079,1,Birth
+881,51,WI,Wisconsin,2015,61.8,67041,1,Birth
+882,51,WI,Wisconsin,2016,61.6,66615,1,Birth
+883,52,WY,Wyoming,2015,70.2,7765,1,Birth
+884,52,WY,Wyoming,2016,67.2,7386,1,Birth
